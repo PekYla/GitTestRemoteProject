@@ -1,1 +1,2 @@
 # GitTestRemoteProject
+# New line
