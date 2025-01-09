@@ -1,5 +1,14 @@
-build-*
-*.o
-local_config.py
-html/
-!build*.py
+# ignore file types
+*.tmp
+*.conf
+
+# allow *.conf files having word "Exable" in name
+!*Example*.conf
+
+# ignore these files
+PrintConfig.py
+
+# Ignore folders
+log/
+work/
+__pycache__/

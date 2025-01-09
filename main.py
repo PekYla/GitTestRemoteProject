@@ -1,10 +1,12 @@
-#This is a comment
-print("Hello, World!")
+from RunningDateAndTime import GetLogDataTime
+from RunnningTimestamp import GetLogTimestamp
+from CalcAreaOfCircle import CalcLogAreaOfCircle
 
-#print("Hello, World!")
-print("Cheers, Mate!")
+# Log software running data and time
+GetLogDataTime()
 
-x = 5
-y = "John"
-print(x)
-print(y)
+# Log software running timestamp
+GetLogTimestamp()
+
+# Calc area of the circle
+CalcLogAreaOfCircle(20)
