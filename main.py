@@ -7,6 +7,3 @@ GetLogDataTime()
 
 # Log software running timestamp
 GetLogTimestamp()
-
-# Calc area of the circle
-CalcLogAreaOfCircle(20)
