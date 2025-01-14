@@ -10,3 +10,4 @@ GetLogTimestamp()
 
 # Calculate area of circle
 CalcLogAreaOfCircle(20)
+CalcLogAreaOfCircle(200)
